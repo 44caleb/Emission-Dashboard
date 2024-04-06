@@ -9,6 +9,7 @@ library(hrbrthemes)
 library(magick)
 library(sf)
 library(DT)
+library(maps)
 
 
 #loading data for the dashboard
