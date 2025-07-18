@@ -44,11 +44,15 @@ Example Preview of Dashboard
 Choropleth Map:
 
 Shows emissions for a selected year and greenhouse gas type.
+![Choropleth Map Example](./choropleth_map.png)
+
 
 Area Plot:
 
 Displays total emissions for CO₂ or methane from 1990 to 2020.
+![Area Plot Example](./area_plot.png)
 
 Trend Line Plot:
 
 Shows emission trends for a selected country over the years.
+![Trend Line Example](./trend_line.png)
